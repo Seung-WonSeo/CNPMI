@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation of a fundamental cross-lingual topic coherence metric (CNPMI)
+This repository contains the implementation and tutorial of a fundamental cross-lingual topic coherence automatic evaluation metric (CNPMI)
 
 ## CNPMI 
 
