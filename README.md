@@ -2,8 +2,8 @@
 
 ## Overview
 
-This repository contains the implementation and tutorial of a fundamental cross-lingual topic coherence automatic evaluation metric (CNPMI)
-📎Paper: https://aclanthology.org/N18-1099/
+- This repository contains the implementation and tutorial of a fundamental cross-lingual topic coherence automatic evaluation metric (CNPMI)
+- 📄Paper: https://aclanthology.org/N18-1099/
 
 ## CNPMI 
 
