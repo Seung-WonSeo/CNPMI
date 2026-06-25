@@ -11,7 +11,7 @@ CNPMI is a modified version of original NPMI for cross-lingual aligned topic aut
 
 ## Reference Corpus
 
-We use parallel cross-lingual referecne Wiki corpus. 
+We use parallel cross-lingual referecne Wiki corpus by [Xiaobao Wu](https://github.com/BobXWu/CNPMI). 
 
 ## Acknowledgements
 
