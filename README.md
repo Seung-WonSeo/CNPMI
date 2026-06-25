@@ -7,7 +7,7 @@
 
 ## CNPMI 
 
-CNPMI is a modified version for cross-lingual aligned topic automatic evaluation. 
+CNPMI is a modified version of original NPMI for cross-lingual aligned topic automatic evaluation. 
 
 ## Reference Corpus
 
